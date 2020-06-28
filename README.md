@@ -1,4 +1,4 @@
-Given a Github username and a year, return a JSON object with their contribution chart data.
+Given a Github username and a year, return a JSON object with their contribution chart data. The function simply requests the user's profile page and scrapes the contribution chart data.
 
 **Note: this is very alpha. No error checking at all.**
 
