@@ -5,7 +5,7 @@
     "@vercel/build-utils": "^2.4.0",
     "@vercel/node": "^1.7.1",
     "cheerio": "^1.0.0-rc.12",
-    "got": "^11.8.5",
+    "got": "^12.5.3",
     "ts-node": "^8.10.2"
   }
 }
